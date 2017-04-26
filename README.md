@@ -58,3 +58,6 @@ import String sListAddItem(this String*,  String listName,
   
 ------ This one is for adding multiple list items
  
+ # known issues:
+ 
+ Nested hashtables or lists can't contain keys that are the same as the parent hashtable (it will grab the name from the parent hashtable)
