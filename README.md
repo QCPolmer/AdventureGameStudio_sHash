@@ -60,3 +60,8 @@ String sListAddItem(this String*,  String listName,
  # known issues:
  
  Nested hashtables or lists can't contain keys (for lists its' name) that are the same as the parent hashtable (it will grab the name from the parent hashtable)
+
+# Notes:
+     
+The functions are also accessible from the sHash and sList classes 
+EG: sHash.Get
