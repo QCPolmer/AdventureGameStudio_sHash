@@ -6,6 +6,10 @@ Also included: sList. A list library that allows lists to be stored as strings.
 
 Both of these can be nested ( put a sHash in a sHash )
 
+To use, just download and import sHash.scm and sHash.scm to Adventure Game Studio. 
+
+( tested on AGS 3.3.0 )
+
 # List of commands in sHash:
 sHashRemove(this String*,  String key); 
 
