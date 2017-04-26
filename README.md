@@ -1,0 +1,1 @@
+# AdventureGameStudio_sHash
